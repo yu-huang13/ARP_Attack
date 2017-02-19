@@ -1,3 +1,6 @@
+#程序说明
+本程序实现了ARP毒化攻击。
+
 #文件说明
 - `victimB/simple_server`：靶机B运行的http服务器代码
 - `attackerA/ARP/ARP.py`：攻击机A运行的ARP毒化代码
